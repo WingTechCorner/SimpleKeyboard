@@ -7,3 +7,4 @@
 * Added diode for each key switch.
 * Added 2.54mm spaced headers for ROW/COL for the key switches and DI/DO/VCC/GND for the LED(s)
 
+![](IMAGES/board_with_keys_render.png)
