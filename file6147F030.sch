@@ -1,0 +1,669 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 2 4
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L WingCustomParts:Kailh-Switch KSW1
+U 1 1 6148519B
+P 2750 1350
+AR Path="/6147F031/6148519B" Ref="KSW1"  Part="1" 
+AR Path="/614FD76C/6148519B" Ref="KSW11"  Part="1" 
+F 0 "KSW1" H 2750 1650 50  0000 C CNN
+F 1 "Kailh-Switch" H 2750 1550 50  0000 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350_reversible" H 2750 1350 50  0001 C CNN
+F 3 "" H 2750 1350 50  0001 C CNN
+	1    2750 1350
+	1    0    0    -1  
+$EndComp
+$Comp
+L WingCustomParts:Kailh-Switch KSW6
+U 1 1 614851A1
+P 4150 1350
+AR Path="/6147F031/614851A1" Ref="KSW6"  Part="1" 
+AR Path="/614FD76C/614851A1" Ref="KSW16"  Part="1" 
+F 0 "KSW6" H 4150 1650 50  0000 C CNN
+F 1 "Kailh-Switch" H 4150 1550 50  0000 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350_reversible" H 4150 1350 50  0001 C CNN
+F 3 "" H 4150 1350 50  0001 C CNN
+	1    4150 1350
+	1    0    0    -1  
+$EndComp
+$Comp
+L WingCustomParts:Kailh-Switch KSW7
+U 1 1 614851A7
+P 4150 2150
+AR Path="/6147F031/614851A7" Ref="KSW7"  Part="1" 
+AR Path="/614FD76C/614851A7" Ref="KSW17"  Part="1" 
+F 0 "KSW7" H 4150 2450 50  0000 C CNN
+F 1 "Kailh-Switch" H 4150 2350 50  0000 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350_reversible" H 4150 2150 50  0001 C CNN
+F 3 "" H 4150 2150 50  0001 C CNN
+	1    4150 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L WingCustomParts:Kailh-Switch KSW8
+U 1 1 614851AD
+P 4150 3000
+AR Path="/6147F031/614851AD" Ref="KSW8"  Part="1" 
+AR Path="/614FD76C/614851AD" Ref="KSW18"  Part="1" 
+F 0 "KSW8" H 4150 3300 50  0000 C CNN
+F 1 "Kailh-Switch" H 4150 3200 50  0000 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350_reversible" H 4150 3000 50  0001 C CNN
+F 3 "" H 4150 3000 50  0001 C CNN
+	1    4150 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L WingCustomParts:Kailh-Switch KSW4
+U 1 1 614851B3
+P 2800 3850
+AR Path="/6147F031/614851B3" Ref="KSW4"  Part="1" 
+AR Path="/614FD76C/614851B3" Ref="KSW14"  Part="1" 
+F 0 "KSW4" H 2800 4150 50  0000 C CNN
+F 1 "Kailh-Switch" H 2800 4050 50  0000 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350_reversible" H 2800 3850 50  0001 C CNN
+F 3 "" H 2800 3850 50  0001 C CNN
+	1    2800 3850
+	1    0    0    -1  
+$EndComp
+$Comp
+L WingCustomParts:Kailh-Switch KSW2
+U 1 1 614851B9
+P 2750 2200
+AR Path="/6147F031/614851B9" Ref="KSW2"  Part="1" 
+AR Path="/614FD76C/614851B9" Ref="KSW12"  Part="1" 
+F 0 "KSW2" H 2750 2500 50  0000 C CNN
+F 1 "Kailh-Switch" H 2750 2400 50  0000 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350_reversible" H 2750 2200 50  0001 C CNN
+F 3 "" H 2750 2200 50  0001 C CNN
+	1    2750 2200
+	1    0    0    -1  
+$EndComp
+$Comp
+L WingCustomParts:Kailh-Switch KSW3
+U 1 1 614851BF
+P 2800 3000
+AR Path="/6147F031/614851BF" Ref="KSW3"  Part="1" 
+AR Path="/614FD76C/614851BF" Ref="KSW13"  Part="1" 
+F 0 "KSW3" H 2800 3300 50  0000 C CNN
+F 1 "Kailh-Switch" H 2800 3200 50  0000 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350_reversible" H 2800 3000 50  0001 C CNN
+F 3 "" H 2800 3000 50  0001 C CNN
+	1    2800 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L WingCustomParts:Kailh-Switch KSW9
+U 1 1 614851C5
+P 4150 3800
+AR Path="/6147F031/614851C5" Ref="KSW9"  Part="1" 
+AR Path="/614FD76C/614851C5" Ref="KSW19"  Part="1" 
+F 0 "KSW9" H 4150 4100 50  0000 C CNN
+F 1 "Kailh-Switch" H 4150 4000 50  0000 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350_reversible" H 4150 3800 50  0001 C CNN
+F 3 "" H 4150 3800 50  0001 C CNN
+	1    4150 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L WingCustomParts:Kailh-Switch KSW5
+U 1 1 614851CB
+P 2850 4800
+AR Path="/6147F031/614851CB" Ref="KSW5"  Part="1" 
+AR Path="/614FD76C/614851CB" Ref="KSW15"  Part="1" 
+F 0 "KSW5" H 2850 5100 50  0000 C CNN
+F 1 "Kailh-Switch" H 2850 5000 50  0000 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350_reversible" H 2850 4800 50  0001 C CNN
+F 3 "" H 2850 4800 50  0001 C CNN
+	1    2850 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L WingCustomParts:Kailh-Switch KSW10
+U 1 1 614851D1
+P 4150 4800
+AR Path="/6147F031/614851D1" Ref="KSW10"  Part="1" 
+AR Path="/614FD76C/614851D1" Ref="KSW20"  Part="1" 
+F 0 "KSW10" H 4150 5100 50  0000 C CNN
+F 1 "Kailh-Switch" H 4150 5000 50  0000 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350_reversible" H 4150 4800 50  0001 C CNN
+F 3 "" H 4150 4800 50  0001 C CNN
+	1    4150 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D1
+U 1 1 614851D7
+P 2350 1450
+AR Path="/6147F031/614851D7" Ref="D1"  Part="1" 
+AR Path="/614FD76C/614851D7" Ref="D11"  Part="1" 
+F 0 "D1" V 2400 1350 50  0000 R CNN
+F 1 "D" V 2350 1350 50  0000 R CNN
+F 2 "Diode_SMD:D_0402_1005Metric_Pad0.77x0.64mm_HandSolder" H 2350 1450 50  0001 C CNN
+F 3 "C125059" H 2350 1450 50  0001 C CNN
+F 4 "C125059" H 2350 1450 50  0001 C CNN "JLCPCB"
+F 5 "C125059" H 2350 1450 50  0001 C CNN "LCSC"
+	1    2350 1450
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2350 1600 3600 1600
+$Comp
+L Device:D D2
+U 1 1 614851DE
+P 2350 2300
+AR Path="/6147F031/614851DE" Ref="D2"  Part="1" 
+AR Path="/614FD76C/614851DE" Ref="D12"  Part="1" 
+F 0 "D2" V 2400 2200 50  0000 R CNN
+F 1 "D" V 2350 2200 50  0000 R CNN
+F 2 "Diode_SMD:D_0402_1005Metric_Pad0.77x0.64mm_HandSolder" H 2350 2300 50  0001 C CNN
+F 3 "C125059" H 2350 2300 50  0001 C CNN
+F 4 "C125059" H 2350 2300 50  0001 C CNN "JLCPCB"
+F 5 "C125059" H 2350 2300 50  0001 C CNN "LCSC"
+	1    2350 2300
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2350 2450 3600 2450
+$Comp
+L Device:D D3
+U 1 1 614851E5
+P 2350 3150
+AR Path="/6147F031/614851E5" Ref="D3"  Part="1" 
+AR Path="/614FD76C/614851E5" Ref="D13"  Part="1" 
+F 0 "D3" V 2400 3050 50  0000 R CNN
+F 1 "D" V 2350 3050 50  0000 R CNN
+F 2 "Diode_SMD:D_0402_1005Metric_Pad0.77x0.64mm_HandSolder" H 2350 3150 50  0001 C CNN
+F 3 "C125059" H 2350 3150 50  0001 C CNN
+F 4 "C125059" H 2350 3150 50  0001 C CNN "JLCPCB"
+F 5 "C125059" H 2350 3150 50  0001 C CNN "LCSC"
+	1    2350 3150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D4
+U 1 1 614851EB
+P 2350 4000
+AR Path="/6147F031/614851EB" Ref="D4"  Part="1" 
+AR Path="/614FD76C/614851EB" Ref="D14"  Part="1" 
+F 0 "D4" V 2400 3900 50  0000 R CNN
+F 1 "D" V 2350 3900 50  0000 R CNN
+F 2 "Diode_SMD:D_0402_1005Metric_Pad0.77x0.64mm_HandSolder" H 2350 4000 50  0001 C CNN
+F 3 "C125059" H 2350 4000 50  0001 C CNN
+F 4 "C125059" H 2350 4000 50  0001 C CNN "JLCPCB"
+F 5 "C125059" H 2350 4000 50  0001 C CNN "LCSC"
+	1    2350 4000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D5
+U 1 1 614851F1
+P 2350 4900
+AR Path="/6147F031/614851F1" Ref="D5"  Part="1" 
+AR Path="/614FD76C/614851F1" Ref="D15"  Part="1" 
+F 0 "D5" V 2400 4800 50  0000 R CNN
+F 1 "D" V 2350 4800 50  0000 R CNN
+F 2 "Diode_SMD:D_0402_1005Metric_Pad0.77x0.64mm_HandSolder" H 2350 4900 50  0001 C CNN
+F 3 "C125059" H 2350 4900 50  0001 C CNN
+F 4 "C125059" H 2350 4900 50  0001 C CNN "JLCPCB"
+F 5 "C125059" H 2350 4900 50  0001 C CNN "LCSC"
+	1    2350 4900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D6
+U 1 1 614851F7
+P 3600 1450
+AR Path="/6147F031/614851F7" Ref="D6"  Part="1" 
+AR Path="/614FD76C/614851F7" Ref="D16"  Part="1" 
+F 0 "D6" V 3650 1350 50  0000 R CNN
+F 1 "D" V 3600 1350 50  0000 R CNN
+F 2 "Diode_SMD:D_0402_1005Metric_Pad0.77x0.64mm_HandSolder" H 3600 1450 50  0001 C CNN
+F 3 "C125059" H 3600 1450 50  0001 C CNN
+F 4 "C125059" H 3600 1450 50  0001 C CNN "JLCPCB"
+F 5 "C125059" H 3600 1450 50  0001 C CNN "LCSC"
+	1    3600 1450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D7
+U 1 1 614851FD
+P 3600 2300
+AR Path="/6147F031/614851FD" Ref="D7"  Part="1" 
+AR Path="/614FD76C/614851FD" Ref="D17"  Part="1" 
+F 0 "D7" V 3650 2200 50  0000 R CNN
+F 1 "D" V 3600 2200 50  0000 R CNN
+F 2 "Diode_SMD:D_0402_1005Metric_Pad0.77x0.64mm_HandSolder" H 3600 2300 50  0001 C CNN
+F 3 "C125059" H 3600 2300 50  0001 C CNN
+F 4 "C125059" H 3600 2300 50  0001 C CNN "JLCPCB"
+F 5 "C125059" H 3600 2300 50  0001 C CNN "LCSC"
+	1    3600 2300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D10
+U 1 1 61485203
+P 3650 3150
+AR Path="/6147F031/61485203" Ref="D10"  Part="1" 
+AR Path="/614FD76C/61485203" Ref="D20"  Part="1" 
+F 0 "D10" V 3700 3050 50  0000 R CNN
+F 1 "D" V 3650 3050 50  0000 R CNN
+F 2 "Diode_SMD:D_0402_1005Metric_Pad0.77x0.64mm_HandSolder" H 3650 3150 50  0001 C CNN
+F 3 "C125059" H 3650 3150 50  0001 C CNN
+F 4 "C125059" H 3650 3150 50  0001 C CNN "JLCPCB"
+F 5 "C125059" H 3650 3150 50  0001 C CNN "LCSC"
+	1    3650 3150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D8
+U 1 1 61485209
+P 3600 4000
+AR Path="/6147F031/61485209" Ref="D8"  Part="1" 
+AR Path="/614FD76C/61485209" Ref="D18"  Part="1" 
+F 0 "D8" V 3650 3900 50  0000 R CNN
+F 1 "D" V 3600 3900 50  0000 R CNN
+F 2 "Diode_SMD:D_0402_1005Metric_Pad0.77x0.64mm_HandSolder" H 3600 4000 50  0001 C CNN
+F 3 "C125059" H 3600 4000 50  0001 C CNN
+F 4 "C125059" H 3600 4000 50  0001 C CNN "JLCPCB"
+F 5 "C125059" H 3600 4000 50  0001 C CNN "LCSC"
+	1    3600 4000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D9
+U 1 1 6148520F
+P 3600 4900
+AR Path="/6147F031/6148520F" Ref="D9"  Part="1" 
+AR Path="/614FD76C/6148520F" Ref="D19"  Part="1" 
+F 0 "D9" V 3650 4800 50  0000 R CNN
+F 1 "D" V 3600 4800 50  0000 R CNN
+F 2 "Diode_SMD:D_0402_1005Metric_Pad0.77x0.64mm_HandSolder" H 3600 4900 50  0001 C CNN
+F 3 "C125059" H 3600 4900 50  0001 C CNN
+F 4 "C125059" H 3600 4900 50  0001 C CNN "JLCPCB"
+F 5 "C125059" H 3600 4900 50  0001 C CNN "LCSC"
+	1    3600 4900
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2650 1350 2350 1350
+Wire Wire Line
+	2350 1350 2350 1300
+Wire Wire Line
+	4050 1350 3600 1350
+Wire Wire Line
+	3600 1350 3600 1300
+Wire Wire Line
+	2650 2200 2350 2200
+Wire Wire Line
+	2350 2200 2350 2150
+Wire Wire Line
+	2700 3000 2350 3000
+Wire Wire Line
+	2700 3850 2350 3850
+Wire Wire Line
+	2750 4800 2350 4800
+Wire Wire Line
+	2350 4800 2350 4750
+Wire Wire Line
+	3600 4750 4050 4750
+Wire Wire Line
+	4050 4750 4050 4800
+Wire Wire Line
+	3600 3850 4050 3850
+Wire Wire Line
+	4050 3850 4050 3800
+Wire Wire Line
+	3650 3000 4050 3000
+Wire Wire Line
+	3600 2150 4050 2150
+Wire Wire Line
+	2950 4800 3400 4800
+Connection ~ 3400 4800
+Wire Wire Line
+	3400 4800 3400 5750
+Wire Wire Line
+	2900 3850 3400 3850
+Connection ~ 3400 3850
+Wire Wire Line
+	3400 3850 3400 4800
+Wire Wire Line
+	2900 3000 3400 3000
+Connection ~ 3400 3000
+Wire Wire Line
+	3400 3000 3400 3850
+Wire Wire Line
+	2850 2200 3400 2200
+Connection ~ 3400 2200
+Wire Wire Line
+	3400 2200 3400 3000
+Wire Wire Line
+	2850 1350 3400 1350
+Wire Wire Line
+	3400 1350 3400 2200
+Wire Wire Line
+	4250 1350 4800 1350
+Wire Wire Line
+	4800 1350 4800 2150
+Wire Wire Line
+	4250 2150 4800 2150
+Connection ~ 4800 2150
+Wire Wire Line
+	4800 2150 4800 3000
+Wire Wire Line
+	4250 3000 4800 3000
+Connection ~ 4800 3000
+Wire Wire Line
+	4800 3000 4800 3800
+Wire Wire Line
+	4250 3800 4800 3800
+Connection ~ 4800 3800
+Wire Wire Line
+	4800 3800 4800 4800
+Wire Wire Line
+	4250 4800 4800 4800
+Connection ~ 4800 4800
+Wire Wire Line
+	4800 4800 4800 5800
+Wire Wire Line
+	2350 3300 3650 3300
+Wire Wire Line
+	2350 4150 3600 4150
+Wire Wire Line
+	2350 5050 3600 5050
+Connection ~ 3600 5050
+Wire Wire Line
+	3600 5050 5100 5050
+Connection ~ 3600 4150
+Wire Wire Line
+	3600 4150 5050 4150
+Connection ~ 3650 3300
+Wire Wire Line
+	3650 3300 5050 3300
+Connection ~ 3600 2450
+Wire Wire Line
+	3600 2450 5050 2450
+Connection ~ 3600 1600
+Wire Wire Line
+	3600 1600 5050 1600
+Text HLabel 5050 1600 2    50   Input ~ 0
+ROW-1
+Text HLabel 5050 2450 2    50   Input ~ 0
+ROW-2
+Text HLabel 5050 3300 2    50   Input ~ 0
+ROW-3
+Text HLabel 5050 4150 2    50   Input ~ 0
+ROW-4
+Text HLabel 5100 5050 2    50   Input ~ 0
+ROW-5
+Text HLabel 3400 5750 3    50   Input ~ 0
+COL-1
+Text HLabel 4800 5800 3    50   Input ~ 0
+COL-2
+$Comp
+L WingCustomParts:WS2812B-2020-JLCPCB WS?
+U 1 1 6149D570
+P 8950 1300
+AR Path="/6149D570" Ref="WS?"  Part="1" 
+AR Path="/6147F031/6149D570" Ref="WS2"  Part="1" 
+AR Path="/614FD76C/6149D570" Ref="WS10"  Part="1" 
+F 0 "WS2" H 8950 1800 50  0000 C CNN
+F 1 "WS2812B-2020-JLCPCB" H 8950 1700 50  0000 C CNN
+F 2 "WingCustomParts:ws2812b-2020-2.0mmx2.0mm" H 8950 1700 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/2012110135_Worldsemi-WS2812B-2020_C965555.pdf" H 8950 1700 50  0001 C CNN
+F 4 "C965555" H 8950 1600 50  0000 C CNN "LCSC"
+F 5 "C965555" H 8950 1500 50  0000 C CNN "JLCPCB"
+	1    8950 1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L WingCustomParts:WS2812B-2020-JLCPCB WS?
+U 1 1 6149E29C
+P 8950 2000
+AR Path="/6149E29C" Ref="WS?"  Part="1" 
+AR Path="/6147F031/6149E29C" Ref="WS3"  Part="1" 
+AR Path="/614FD76C/6149E29C" Ref="WS11"  Part="1" 
+F 0 "WS3" H 8950 2500 50  0000 C CNN
+F 1 "WS2812B-2020-JLCPCB" H 8950 2400 50  0000 C CNN
+F 2 "WingCustomParts:ws2812b-2020-2.0mmx2.0mm" H 8950 2400 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/2012110135_Worldsemi-WS2812B-2020_C965555.pdf" H 8950 2400 50  0001 C CNN
+F 4 "C965555" H 8950 2300 50  0000 C CNN "LCSC"
+F 5 "C965555" H 8950 2200 50  0000 C CNN "JLCPCB"
+	1    8950 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L WingCustomParts:WS2812B-2020-JLCPCB WS?
+U 1 1 6149ED85
+P 8950 2700
+AR Path="/6149ED85" Ref="WS?"  Part="1" 
+AR Path="/6147F031/6149ED85" Ref="WS4"  Part="1" 
+AR Path="/614FD76C/6149ED85" Ref="WS12"  Part="1" 
+F 0 "WS4" H 8950 3200 50  0000 C CNN
+F 1 "WS2812B-2020-JLCPCB" H 8950 3100 50  0000 C CNN
+F 2 "WingCustomParts:ws2812b-2020-2.0mmx2.0mm" H 8950 3100 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/2012110135_Worldsemi-WS2812B-2020_C965555.pdf" H 8950 3100 50  0001 C CNN
+F 4 "C965555" H 8950 3000 50  0000 C CNN "LCSC"
+F 5 "C965555" H 8950 2900 50  0000 C CNN "JLCPCB"
+	1    8950 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L WingCustomParts:WS2812B-2020-JLCPCB WS?
+U 1 1 6149FB37
+P 8950 3400
+AR Path="/6149FB37" Ref="WS?"  Part="1" 
+AR Path="/6147F031/6149FB37" Ref="WS5"  Part="1" 
+AR Path="/614FD76C/6149FB37" Ref="WS13"  Part="1" 
+F 0 "WS5" H 8950 3900 50  0000 C CNN
+F 1 "WS2812B-2020-JLCPCB" H 8950 3800 50  0000 C CNN
+F 2 "WingCustomParts:ws2812b-2020-2.0mmx2.0mm" H 8950 3800 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/2012110135_Worldsemi-WS2812B-2020_C965555.pdf" H 8950 3800 50  0001 C CNN
+F 4 "C965555" H 8950 3700 50  0000 C CNN "LCSC"
+F 5 "C965555" H 8950 3600 50  0000 C CNN "JLCPCB"
+	1    8950 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L WingCustomParts:WS2812B-2020-JLCPCB WS?
+U 1 1 614A056D
+P 8950 4150
+AR Path="/614A056D" Ref="WS?"  Part="1" 
+AR Path="/6147F031/614A056D" Ref="WS6"  Part="1" 
+AR Path="/614FD76C/614A056D" Ref="WS14"  Part="1" 
+F 0 "WS6" H 8950 4650 50  0000 C CNN
+F 1 "WS2812B-2020-JLCPCB" H 8950 4550 50  0000 C CNN
+F 2 "WingCustomParts:ws2812b-2020-2.0mmx2.0mm" H 8950 4550 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/2012110135_Worldsemi-WS2812B-2020_C965555.pdf" H 8950 4550 50  0001 C CNN
+F 4 "C965555" H 8950 4450 50  0000 C CNN "LCSC"
+F 5 "C965555" H 8950 4350 50  0000 C CNN "JLCPCB"
+	1    8950 4150
+	1    0    0    -1  
+$EndComp
+$Comp
+L WingCustomParts:WS2812B-2020-JLCPCB WS?
+U 1 1 614A1144
+P 8950 4850
+AR Path="/614A1144" Ref="WS?"  Part="1" 
+AR Path="/6147F031/614A1144" Ref="WS7"  Part="1" 
+AR Path="/614FD76C/614A1144" Ref="WS15"  Part="1" 
+F 0 "WS7" H 8950 5350 50  0000 C CNN
+F 1 "WS2812B-2020-JLCPCB" H 8950 5250 50  0000 C CNN
+F 2 "WingCustomParts:ws2812b-2020-2.0mmx2.0mm" H 8950 5250 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/2012110135_Worldsemi-WS2812B-2020_C965555.pdf" H 8950 5250 50  0001 C CNN
+F 4 "C965555" H 8950 5150 50  0000 C CNN "LCSC"
+F 5 "C965555" H 8950 5050 50  0000 C CNN "JLCPCB"
+	1    8950 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L WingCustomParts:WS2812B-2020-JLCPCB WS?
+U 1 1 614A2387
+P 8950 5500
+AR Path="/614A2387" Ref="WS?"  Part="1" 
+AR Path="/6147F031/614A2387" Ref="WS8"  Part="1" 
+AR Path="/614FD76C/614A2387" Ref="WS16"  Part="1" 
+F 0 "WS8" H 8950 6000 50  0000 C CNN
+F 1 "WS2812B-2020-JLCPCB" H 8950 5900 50  0000 C CNN
+F 2 "WingCustomParts:ws2812b-2020-2.0mmx2.0mm" H 8950 5900 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/2012110135_Worldsemi-WS2812B-2020_C965555.pdf" H 8950 5900 50  0001 C CNN
+F 4 "C965555" H 8950 5800 50  0000 C CNN "LCSC"
+F 5 "C965555" H 8950 5700 50  0000 C CNN "JLCPCB"
+	1    8950 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L WingCustomParts:WS2812B-2020-JLCPCB WS?
+U 1 1 614A305A
+P 8950 6150
+AR Path="/614A305A" Ref="WS?"  Part="1" 
+AR Path="/6147F031/614A305A" Ref="WS9"  Part="1" 
+AR Path="/614FD76C/614A305A" Ref="WS17"  Part="1" 
+F 0 "WS9" H 8950 6650 50  0000 C CNN
+F 1 "WS2812B-2020-JLCPCB" H 8950 6550 50  0000 C CNN
+F 2 "WingCustomParts:ws2812b-2020-2.0mmx2.0mm" H 8950 6550 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/2012110135_Worldsemi-WS2812B-2020_C965555.pdf" H 8950 6550 50  0001 C CNN
+F 4 "C965555" H 8950 6450 50  0000 C CNN "LCSC"
+F 5 "C965555" H 8950 6350 50  0000 C CNN "JLCPCB"
+	1    8950 6150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9250 1350 9350 1350
+Wire Wire Line
+	9350 1350 9350 1950
+Wire Wire Line
+	9350 1950 9250 1950
+Wire Wire Line
+	9250 2050 9350 2050
+Wire Wire Line
+	9350 2050 9350 2650
+Wire Wire Line
+	9350 2650 9250 2650
+Wire Wire Line
+	9250 2750 9350 2750
+Wire Wire Line
+	9350 2750 9350 3350
+Wire Wire Line
+	9350 3350 9250 3350
+Wire Wire Line
+	9250 3450 9350 3450
+Wire Wire Line
+	9350 3450 9350 4100
+Wire Wire Line
+	9350 4100 9250 4100
+Wire Wire Line
+	9250 4200 9350 4200
+Wire Wire Line
+	9350 4200 9350 4800
+Wire Wire Line
+	9350 4800 9250 4800
+Wire Wire Line
+	9250 4900 9350 4900
+Wire Wire Line
+	9350 4900 9350 5450
+Wire Wire Line
+	9350 5450 9250 5450
+Wire Wire Line
+	9250 5550 9350 5550
+Wire Wire Line
+	9350 5550 9350 6100
+Wire Wire Line
+	9350 6100 9250 6100
+Wire Wire Line
+	9250 6200 9750 6200
+Wire Wire Line
+	9250 1250 9750 1250
+Wire Wire Line
+	8650 1250 8100 1250
+Wire Wire Line
+	8650 1350 8250 1350
+Wire Wire Line
+	8650 1950 8100 1950
+Wire Wire Line
+	8650 2050 8250 2050
+Wire Wire Line
+	8650 2650 8100 2650
+Wire Wire Line
+	8650 2750 8250 2750
+Wire Wire Line
+	8650 3350 8100 3350
+Wire Wire Line
+	8650 3450 8250 3450
+Wire Wire Line
+	8650 4100 8100 4100
+Wire Wire Line
+	8650 4200 8250 4200
+Wire Wire Line
+	8650 4800 8100 4800
+Wire Wire Line
+	8650 4900 8250 4900
+Wire Wire Line
+	8650 5450 8100 5450
+Wire Wire Line
+	8650 5550 8250 5550
+Wire Wire Line
+	8650 6100 8100 6100
+Wire Wire Line
+	8650 6200 8250 6200
+Wire Wire Line
+	8250 6200 8250 5550
+Wire Wire Line
+	8250 5550 8250 4900
+Connection ~ 8250 5550
+Wire Wire Line
+	8250 4900 8250 4200
+Connection ~ 8250 4900
+Wire Wire Line
+	8250 4200 8250 3450
+Connection ~ 8250 4200
+Wire Wire Line
+	8250 3450 8250 2750
+Connection ~ 8250 3450
+Wire Wire Line
+	8100 2650 8100 3350
+Wire Wire Line
+	8100 3350 8100 4100
+Connection ~ 8100 3350
+Wire Wire Line
+	8100 4100 8100 4800
+Connection ~ 8100 4100
+Wire Wire Line
+	8100 4800 8100 5450
+Connection ~ 8100 4800
+Wire Wire Line
+	8100 6100 8100 5450
+Connection ~ 8100 5450
+Wire Wire Line
+	8250 1350 8250 2050
+Wire Wire Line
+	8250 2050 8250 2750
+Connection ~ 8250 2050
+Connection ~ 8250 2750
+Wire Wire Line
+	8100 2650 8100 1950
+Connection ~ 8100 2650
+Wire Wire Line
+	8100 1950 8100 1250
+Connection ~ 8100 1950
+Text HLabel 8100 1550 0    50   Input ~ 0
+VCC
+Text HLabel 8250 1750 2    50   Input ~ 0
+GND
+Text HLabel 9750 1250 2    50   Input ~ 0
+DIN
+Text HLabel 9750 6200 2    50   Input ~ 0
+DOUT
+$EndSCHEMATC
